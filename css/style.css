@@ -1,0 +1,23 @@
+h1{
+  text-transform: uppercase;
+}
+.sea-select{
+  width: 43%;
+}
+.wrapper{
+  margin: 0 20px;
+}
+a{
+  color: rgba(0,0,0,0.2);
+  font-weight: 700;
+  text-shadow: none;
+  text-decoration: none;
+}
+a:hover{
+  color: rgba(0,0,0,0.6);
+  font-weight: 800;
+}
+.source{
+  margin-top: 25px;
+  margin-left: 639px;
+}

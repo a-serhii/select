@@ -1,0 +1,24 @@
+﻿.sea-selected {
+  height: 30px;
+  line-height: 30px;
+  padding: 0 10px;
+  background: #2C3E50;
+  border: 1px solid #fff;
+  border-radius: 3px;
+  color: #fff;
+}
+
+.sea-selected.focus { border-radius: 3px 3px 0 0; }
+
+.sea-list {
+  background: #34495E;
+  border-width: 0 1px 1px 1px;
+  border-style: solid;
+  border-color: #fff;
+  border-radius: 0 0 3px 3px;
+  color: #fff;
+}
+
+.sea-list li { padding: 5px 10px; }
+
+.sea-list li:hover { background: #1ABC9C; }
